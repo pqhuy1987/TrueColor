@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EBBDEB20199357620011B135"
-               BuildableName = "ColorBeat.app"
-               BlueprintName = "ColorBeat"
-               ReferencedContainer = "container:ColorBeat.xcodeproj">
+               BuildableName = "TrueColor.app"
+               BlueprintName = "TrueColor"
+               ReferencedContainer = "container:TrueColor.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "EBBDEB44199357620011B135"
-               BuildableName = "ColorBeatTests.xctest"
-               BlueprintName = "ColorBeatTests"
-               ReferencedContainer = "container:ColorBeat.xcodeproj">
+               BuildableName = "TrueColorTests.xctest"
+               BlueprintName = "TrueColorTests"
+               ReferencedContainer = "container:TrueColor.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -43,9 +43,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EBBDEB20199357620011B135"
-            BuildableName = "ColorBeat.app"
-            BlueprintName = "ColorBeat"
-            ReferencedContainer = "container:ColorBeat.xcodeproj">
+            BuildableName = "TrueColor.app"
+            BlueprintName = "TrueColor"
+            ReferencedContainer = "container:TrueColor.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -66,9 +66,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EBBDEB20199357620011B135"
-            BuildableName = "ColorBeat.app"
-            BlueprintName = "ColorBeat"
-            ReferencedContainer = "container:ColorBeat.xcodeproj">
+            BuildableName = "TrueColor.app"
+            BlueprintName = "TrueColor"
+            ReferencedContainer = "container:TrueColor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -85,9 +85,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "EBBDEB20199357620011B135"
-            BuildableName = "ColorBeat.app"
-            BlueprintName = "ColorBeat"
-            ReferencedContainer = "container:ColorBeat.xcodeproj">
+            BuildableName = "TrueColor.app"
+            BlueprintName = "TrueColor"
+            ReferencedContainer = "container:TrueColor.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

@@ -45,22 +45,22 @@
 		EB5C11D51994BE9600C0EA9F /* Game.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Game.wav; sourceTree = "<group>"; };
 		EB5C11D61994BE9600C0EA9F /* Neg.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Neg.wav; sourceTree = "<group>"; };
 		EB5C11D71994BE9600C0EA9F /* Pos.wav */ = {isa = PBXFileReference; lastKnownFileType = audio.wav; path = Pos.wav; sourceTree = "<group>"; };
-		EBBDEB21199357620011B135 /* ColorBeat.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ColorBeat.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBBDEB21199357620011B135 /* TrueColor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrueColor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBBDEB24199357620011B135 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		EBBDEB26199357620011B135 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		EBBDEB28199357620011B135 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
-		EBBDEB2C199357620011B135 /* ColorBeat-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ColorBeat-Info.plist"; sourceTree = "<group>"; };
+		EBBDEB2C199357620011B135 /* TrueColor-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrueColor-Info.plist"; sourceTree = "<group>"; };
 		EBBDEB2E199357620011B135 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EBBDEB30199357620011B135 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
-		EBBDEB32199357620011B135 /* ColorBeat-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "ColorBeat-Prefix.pch"; sourceTree = "<group>"; };
+		EBBDEB32199357620011B135 /* TrueColor-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "TrueColor-Prefix.pch"; sourceTree = "<group>"; };
 		EBBDEB33199357620011B135 /* ColorBeatAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ColorBeatAppDelegate.h; sourceTree = "<group>"; };
 		EBBDEB34199357620011B135 /* ColorBeatAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorBeatAppDelegate.m; sourceTree = "<group>"; };
 		EBBDEB37199357620011B135 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPhone.storyboard; sourceTree = "<group>"; };
 		EBBDEB3A199357620011B135 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main_iPad.storyboard; sourceTree = "<group>"; };
 		EBBDEB3F199357620011B135 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
-		EBBDEB45199357620011B135 /* ColorBeatTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ColorBeatTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		EBBDEB45199357620011B135 /* TrueColorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TrueColorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		EBBDEB46199357620011B135 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
-		EBBDEB4E199357620011B135 /* ColorBeatTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "ColorBeatTests-Info.plist"; sourceTree = "<group>"; };
+		EBBDEB4E199357620011B135 /* TrueColorTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "TrueColorTests-Info.plist"; sourceTree = "<group>"; };
 		EBBDEB50199357620011B135 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		EBBDEB52199357620011B135 /* ColorBeatTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ColorBeatTests.m; sourceTree = "<group>"; };
 		EBBDEB5C199357830011B135 /* ColorUtils.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ColorUtils.h; sourceTree = "<group>"; };
@@ -122,8 +122,8 @@
 		EBBDEB22199357620011B135 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				EBBDEB21199357620011B135 /* ColorBeat.app */,
-				EBBDEB45199357620011B135 /* ColorBeatTests.xctest */,
+				EBBDEB21199357620011B135 /* TrueColor.app */,
+				EBBDEB45199357620011B135 /* TrueColorTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -165,10 +165,10 @@
 			children = (
 				EBBDEB33199357620011B135 /* ColorBeatAppDelegate.h */,
 				EBBDEB34199357620011B135 /* ColorBeatAppDelegate.m */,
-				EBBDEB2C199357620011B135 /* ColorBeat-Info.plist */,
+				EBBDEB2C199357620011B135 /* TrueColor-Info.plist */,
 				EBBDEB2D199357620011B135 /* InfoPlist.strings */,
 				EBBDEB30199357620011B135 /* main.m */,
-				EBBDEB32199357620011B135 /* ColorBeat-Prefix.pch */,
+				EBBDEB32199357620011B135 /* TrueColor-Prefix.pch */,
 			);
 			name = "Supporting Files";
 			sourceTree = "<group>";
@@ -185,7 +185,7 @@
 		EBBDEB4D199357620011B135 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				EBBDEB4E199357620011B135 /* ColorBeatTests-Info.plist */,
+				EBBDEB4E199357620011B135 /* TrueColorTests-Info.plist */,
 				EBBDEB4F199357620011B135 /* InfoPlist.strings */,
 			);
 			name = "Supporting Files";
@@ -203,9 +203,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		EBBDEB20199357620011B135 /* ColorBeat */ = {
+		EBBDEB20199357620011B135 /* TrueColor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EBBDEB56199357620011B135 /* Build configuration list for PBXNativeTarget "ColorBeat" */;
+			buildConfigurationList = EBBDEB56199357620011B135 /* Build configuration list for PBXNativeTarget "TrueColor" */;
 			buildPhases = (
 				EBBDEB1D199357620011B135 /* Sources */,
 				EBBDEB1E199357620011B135 /* Frameworks */,
@@ -215,14 +215,14 @@
 			);
 			dependencies = (
 			);
-			name = ColorBeat;
+			name = TrueColor;
 			productName = ColorBeat;
-			productReference = EBBDEB21199357620011B135 /* ColorBeat.app */;
+			productReference = EBBDEB21199357620011B135 /* TrueColor.app */;
 			productType = "com.apple.product-type.application";
 		};
-		EBBDEB44199357620011B135 /* ColorBeatTests */ = {
+		EBBDEB44199357620011B135 /* TrueColorTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = EBBDEB59199357620011B135 /* Build configuration list for PBXNativeTarget "ColorBeatTests" */;
+			buildConfigurationList = EBBDEB59199357620011B135 /* Build configuration list for PBXNativeTarget "TrueColorTests" */;
 			buildPhases = (
 				EBBDEB41199357620011B135 /* Sources */,
 				EBBDEB42199357620011B135 /* Frameworks */,
@@ -233,9 +233,9 @@
 			dependencies = (
 				EBBDEB4B199357620011B135 /* PBXTargetDependency */,
 			);
-			name = ColorBeatTests;
+			name = TrueColorTests;
 			productName = ColorBeatTests;
-			productReference = EBBDEB45199357620011B135 /* ColorBeatTests.xctest */;
+			productReference = EBBDEB45199357620011B135 /* TrueColorTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
 /* End PBXNativeTarget section */
@@ -256,7 +256,7 @@
 					};
 				};
 			};
-			buildConfigurationList = EBBDEB1C199357620011B135 /* Build configuration list for PBXProject "ColorBeat" */;
+			buildConfigurationList = EBBDEB1C199357620011B135 /* Build configuration list for PBXProject "TrueColor" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -269,8 +269,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				EBBDEB20199357620011B135 /* ColorBeat */,
-				EBBDEB44199357620011B135 /* ColorBeatTests */,
+				EBBDEB20199357620011B135 /* TrueColor */,
+				EBBDEB44199357620011B135 /* TrueColorTests */,
 			);
 		};
 /* End PBXProject section */
@@ -328,7 +328,7 @@
 /* Begin PBXTargetDependency section */
 		EBBDEB4B199357620011B135 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = EBBDEB20199357620011B135 /* ColorBeat */;
+			target = EBBDEB20199357620011B135 /* TrueColor */;
 			targetProxy = EBBDEB4A199357620011B135 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -460,8 +460,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = JQNK74493B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ColorBeat/ColorBeat-Prefix.pch";
-				INFOPLIST_FILE = "ColorBeat/ColorBeat-Info.plist";
+				GCC_PREFIX_HEADER = "ColorBeat/TrueColor-Prefix.pch";
+				INFOPLIST_FILE = "ColorBeat/TrueColor-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.truecolor.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -477,8 +477,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				DEVELOPMENT_TEAM = JQNK74493B;
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "ColorBeat/ColorBeat-Prefix.pch";
-				INFOPLIST_FILE = "ColorBeat/ColorBeat-Info.plist";
+				GCC_PREFIX_HEADER = "ColorBeat/TrueColor-Prefix.pch";
+				INFOPLIST_FILE = "ColorBeat/TrueColor-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.truecolor.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -501,7 +501,7 @@
 					"DEBUG=1",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = "ColorBeatTests/ColorBeatTests-Info.plist";
+				INFOPLIST_FILE = "ColorBeatTests/TrueColorTests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.billyue.colorbeat.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -520,7 +520,7 @@
 				);
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "ColorBeat/ColorBeat-Prefix.pch";
-				INFOPLIST_FILE = "ColorBeatTests/ColorBeatTests-Info.plist";
+				INFOPLIST_FILE = "ColorBeatTests/TrueColorTests-Info.plist";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.billyue.colorbeat.${PRODUCT_NAME:rfc1034identifier}";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -531,7 +531,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		EBBDEB1C199357620011B135 /* Build configuration list for PBXProject "ColorBeat" */ = {
+		EBBDEB1C199357620011B135 /* Build configuration list for PBXProject "TrueColor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EBBDEB54199357620011B135 /* Debug */,
@@ -540,7 +540,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EBBDEB56199357620011B135 /* Build configuration list for PBXNativeTarget "ColorBeat" */ = {
+		EBBDEB56199357620011B135 /* Build configuration list for PBXNativeTarget "TrueColor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EBBDEB57199357620011B135 /* Debug */,
@@ -549,7 +549,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		EBBDEB59199357620011B135 /* Build configuration list for PBXNativeTarget "ColorBeatTests" */ = {
+		EBBDEB59199357620011B135 /* Build configuration list for PBXNativeTarget "TrueColorTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				EBBDEB5A199357620011B135 /* Debug */,
