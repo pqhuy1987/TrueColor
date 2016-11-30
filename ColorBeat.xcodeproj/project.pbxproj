@@ -452,6 +452,7 @@
 				GCC_PREFIX_HEADER = "ColorBeat/ColorBeat-Prefix.pch";
 				INFOPLIST_FILE = "ColorBeat/ColorBeat-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.truecolor.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
@@ -468,6 +469,7 @@
 				GCC_PREFIX_HEADER = "ColorBeat/ColorBeat-Prefix.pch";
 				INFOPLIST_FILE = "ColorBeat/ColorBeat-Info.plist";
 				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
+				PRODUCT_BUNDLE_IDENTIFIER = com.twokingstudio.truecolor.100;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				WRAPPER_EXTENSION = app;
 			};
