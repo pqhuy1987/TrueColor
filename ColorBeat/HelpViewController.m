@@ -23,6 +23,7 @@
     
     UIImageView *imageSubView = [[UIImageView alloc] initWithFrame:self.imageView.bounds];
     imageSubView.image = [UIImage imageNamed:@"screenshot2"];
+    imageSubView.center = CGPointMake(self.view.center.x, imageSubView.center.y);
     [self.imageView addSubview:imageSubView];
 }
 
